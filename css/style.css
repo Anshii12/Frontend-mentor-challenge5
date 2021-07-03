@@ -69,10 +69,12 @@ body {
 
 .second-rating  {
   margin-left: 1.5rem;
+  margin-right: -20px;
 }
 
 .third-rating  {
   margin-left: 3.5rem;
+  margin-right: -40px;
 }
 
 .cards-rating {
@@ -161,10 +163,12 @@ body {
   }
   .second-rating {
     margin-left: 0;
+    margin-right: 0;
   }
 
   .third-rating {
     margin-left: 0;
+    margin-right: 0;
   }
 
   .rating-image {
